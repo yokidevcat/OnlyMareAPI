@@ -1,6 +1,6 @@
-﻿namespace MareSynchronos.API.Routes;
+﻿namespace LightlessSync.API.Routes;
 
-public class MareFiles
+public class LightlessFiles
 {
     public const string Cache = "/cache";
     public const string Cache_Get = "get";

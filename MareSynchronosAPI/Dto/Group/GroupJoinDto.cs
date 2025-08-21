@@ -1,8 +1,8 @@
-﻿using MareSynchronos.API.Data;
-using MareSynchronos.API.Data.Enum;
+﻿using LightlessSync.API.Data;
+using LightlessSync.API.Data.Enum;
 using MessagePack;
 
-namespace MareSynchronos.API.Dto.Group;
+namespace LightlessSync.API.Dto.Group;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public record GroupPasswordDto(GroupData Group, string Password) : GroupDto(Group);

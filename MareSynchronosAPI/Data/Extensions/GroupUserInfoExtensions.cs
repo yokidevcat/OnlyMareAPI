@@ -1,6 +1,6 @@
-﻿using MareSynchronos.API.Data.Enum;
+﻿using LightlessSync.API.Data.Enum;
 
-namespace MareSynchronos.API.Data.Extensions;
+namespace LightlessSync.API.Data.Extensions;
 
 public static class GroupUserInfoExtensions
 {

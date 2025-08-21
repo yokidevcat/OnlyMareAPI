@@ -1,13 +1,13 @@
-﻿using MareSynchronos.API.Data;
-using MareSynchronos.API.Data.Enum;
-using MareSynchronos.API.Dto;
-using MareSynchronos.API.Dto.CharaData;
-using MareSynchronos.API.Dto.Group;
-using MareSynchronos.API.Dto.User;
+﻿using LightlessSync.API.Data;
+using LightlessSync.API.Data.Enum;
+using LightlessSync.API.Dto;
+using LightlessSync.API.Dto.CharaData;
+using LightlessSync.API.Dto.Group;
+using LightlessSync.API.Dto.User;
 
-namespace MareSynchronos.API.SignalR;
+namespace LightlessSync.API.SignalR;
 
-public interface IMareHubClient : IMareHub
+public interface ILightlessHubClient : ILightlessHub
 {
     void OnDownloadReady(Action<Guid> act);
 

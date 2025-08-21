@@ -1,6 +1,6 @@
-﻿namespace MareSynchronos.API.Routes;
+﻿namespace LightlessSync.API.Routes;
 
-public class MareAuth
+public class LightlessAuth
 {
     public const string OAuth = "/oauth";
     public const string Auth = "/auth";

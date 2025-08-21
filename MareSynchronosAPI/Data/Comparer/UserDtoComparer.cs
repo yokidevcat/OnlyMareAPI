@@ -1,6 +1,6 @@
-﻿using MareSynchronos.API.Dto.User;
+﻿using LightlessSync.API.Dto.User;
 
-namespace MareSynchronos.API.Data.Comparer;
+namespace LightlessSync.API.Data.Comparer;
 
 public class UserDtoComparer : IEqualityComparer<UserDto>
 {

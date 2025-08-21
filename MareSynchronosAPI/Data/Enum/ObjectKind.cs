@@ -1,4 +1,4 @@
-﻿namespace MareSynchronos.API.Data.Enum;
+﻿namespace LightlessSync.API.Data.Enum;
 
 public enum ObjectKind
 {

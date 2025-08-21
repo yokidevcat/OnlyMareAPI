@@ -1,4 +1,4 @@
-﻿namespace MareSynchronos.API.Data;
+﻿namespace LightlessSync.API.Data;
 
 public class Constants
 {

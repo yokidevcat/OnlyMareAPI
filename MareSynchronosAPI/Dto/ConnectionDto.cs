@@ -1,7 +1,7 @@
-﻿using MareSynchronos.API.Data;
+﻿using LightlessSync.API.Data;
 using MessagePack;
 
-namespace MareSynchronos.API.Dto;
+namespace LightlessSync.API.Dto;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public record ConnectionDto(UserData User)

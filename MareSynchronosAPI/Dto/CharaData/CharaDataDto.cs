@@ -1,6 +1,6 @@
-﻿using MareSynchronos.API.Data;
+﻿using LightlessSync.API.Data;
 
-namespace MareSynchronos.API.Dto.CharaData;
+namespace LightlessSync.API.Dto.CharaData;
 
 public record CharaDataDto(string Id, UserData Uploader)
 {
