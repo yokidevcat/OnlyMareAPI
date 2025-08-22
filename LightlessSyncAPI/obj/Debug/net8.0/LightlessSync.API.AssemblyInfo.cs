@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LightlessSync.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38cae9bdf8b5a9dc67a924af0b85750ee1cf5182")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73ecaf1e3e964a81f29daf4b5a64583d00dc1b34")]
 [assembly: System.Reflection.AssemblyProductAttribute("LightlessSync.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LightlessSync.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

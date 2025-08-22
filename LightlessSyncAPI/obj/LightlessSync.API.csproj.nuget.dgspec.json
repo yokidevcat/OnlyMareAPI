@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\Lightless Sync\\LightlessAPI\\LightlessSyncAPI\\LightlessSync.API.csproj": {}
+    "C:\\Users\\zay\\source\\repos\\LightlessClient\\LightlessAPI\\LightlessSyncAPI\\LightlessSync.API.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\Lightless Sync\\LightlessAPI\\LightlessSyncAPI\\LightlessSync.API.csproj": {
+    "C:\\Users\\zay\\source\\repos\\LightlessClient\\LightlessAPI\\LightlessSyncAPI\\LightlessSync.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\Lightless Sync\\LightlessAPI\\LightlessSyncAPI\\LightlessSync.API.csproj",
+        "projectUniqueName": "C:\\Users\\zay\\source\\repos\\LightlessClient\\LightlessAPI\\LightlessSyncAPI\\LightlessSync.API.csproj",
         "projectName": "LightlessSync.API",
-        "projectPath": "D:\\Coding\\Lightless Sync\\LightlessAPI\\LightlessSyncAPI\\LightlessSync.API.csproj",
-        "packagesPath": "C:\\Users\\leong\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\Lightless Sync\\LightlessAPI\\LightlessSyncAPI\\obj\\",
+        "projectPath": "C:\\Users\\zay\\source\\repos\\LightlessClient\\LightlessAPI\\LightlessSyncAPI\\LightlessSync.API.csproj",
+        "packagesPath": "C:\\Users\\zay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zay\\source\\repos\\LightlessClient\\LightlessAPI\\LightlessSyncAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "H:\\VS_SHARED\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\leong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zay\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
