@@ -1,6 +1,6 @@
 ﻿using MessagePack;
 
-namespace LightlessSync.API.Data;
+namespace OnlyMare.API.Data;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public record GroupData(string GID, string? Alias = null)

@@ -1,6 +1,6 @@
 ﻿using MessagePack;
 
-namespace LightlessSync.API.Dto.CharaData;
+namespace OnlyMare.API.Dto.CharaData;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public record CharaDataUpdateDto(string Id)

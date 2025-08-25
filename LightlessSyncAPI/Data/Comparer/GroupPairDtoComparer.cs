@@ -1,6 +1,6 @@
-﻿using LightlessSync.API.Dto.Group;
+﻿using OnlyMare.API.Dto.Group;
 
-namespace LightlessSync.API.Data.Comparer;
+namespace OnlyMare.API.Data.Comparer;
 
 public class GroupPairDtoComparer : IEqualityComparer<GroupPairDto>
 {

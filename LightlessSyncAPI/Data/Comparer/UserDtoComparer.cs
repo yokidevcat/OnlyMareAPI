@@ -1,6 +1,6 @@
-﻿using LightlessSync.API.Dto.User;
+﻿using OnlyMare.API.Dto.User;
 
-namespace LightlessSync.API.Data.Comparer;
+namespace OnlyMare.API.Data.Comparer;
 
 public class UserDtoComparer : IEqualityComparer<UserDto>
 {

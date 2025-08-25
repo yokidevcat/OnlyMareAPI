@@ -1,7 +1,7 @@
-﻿using LightlessSync.API.Data;
+﻿using OnlyMare.API.Data;
 using MessagePack;
 
-namespace LightlessSync.API.Dto.Group;
+namespace OnlyMare.API.Dto.Group;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public record GroupPairDto(GroupData Group, UserData User) : GroupDto(Group)

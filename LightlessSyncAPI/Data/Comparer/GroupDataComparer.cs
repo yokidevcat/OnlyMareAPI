@@ -1,4 +1,4 @@
-﻿namespace LightlessSync.API.Data.Comparer;
+﻿namespace OnlyMare.API.Data.Comparer;
 
 public class GroupDataComparer : IEqualityComparer<GroupData>
 {

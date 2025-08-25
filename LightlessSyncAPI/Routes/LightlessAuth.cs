@@ -1,4 +1,4 @@
-﻿namespace LightlessSync.API.Routes;
+﻿namespace OnlyMare.API.Routes;
 
 public class LightlessAuth
 {

@@ -1,6 +1,6 @@
-﻿using LightlessSync.API.Data.Enum;
+﻿using OnlyMare.API.Data.Enum;
 
-namespace LightlessSync.API.Data.Extensions;
+namespace OnlyMare.API.Data.Extensions;
 
 public static class UserPermissionsExtensions
 {

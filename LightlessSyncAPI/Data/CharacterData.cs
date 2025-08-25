@@ -1,4 +1,4 @@
-﻿using LightlessSync.API.Data.Enum;
+﻿using OnlyMare.API.Data.Enum;
 using MessagePack;
 using System.Security.Cryptography;
 
@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace LightlessSync.API.Data;
+namespace OnlyMare.API.Data;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public class CharacterData

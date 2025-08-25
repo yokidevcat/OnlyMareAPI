@@ -1,8 +1,8 @@
-﻿using LightlessSync.API.Data;
-using LightlessSync.API.Data.Enum;
+﻿using OnlyMare.API.Data;
+using OnlyMare.API.Data.Enum;
 using MessagePack;
 
-namespace LightlessSync.API.Dto.Group;
+namespace OnlyMare.API.Dto.Group;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public record GroupPairUserPermissionDto(GroupData Group, UserData User, GroupUserPreferredPermissions GroupPairPermissions) : GroupPairDto(Group, User);

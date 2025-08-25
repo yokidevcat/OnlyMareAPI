@@ -1,6 +1,6 @@
 ﻿using MessagePack;
 
-namespace LightlessSync.API.Dto;
+namespace OnlyMare.API.Dto;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public record SystemInfoDto

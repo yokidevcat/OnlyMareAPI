@@ -4,7 +4,7 @@ using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace LightlessSync.API.Data;
+namespace OnlyMare.API.Data;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public class FileReplacementData

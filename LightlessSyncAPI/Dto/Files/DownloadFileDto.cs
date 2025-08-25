@@ -1,6 +1,6 @@
 ﻿using MessagePack;
 
-namespace LightlessSync.API.Dto.Files;
+namespace OnlyMare.API.Dto.Files;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public record DownloadFileDto : ITransferFileDto

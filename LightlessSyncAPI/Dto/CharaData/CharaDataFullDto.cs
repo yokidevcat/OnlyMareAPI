@@ -1,7 +1,7 @@
-﻿using LightlessSync.API.Data;
+﻿using OnlyMare.API.Data;
 using MessagePack;
 
-namespace LightlessSync.API.Dto.CharaData;
+namespace OnlyMare.API.Dto.CharaData;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public record CharaDataFullDto(string Id, UserData Uploader) : CharaDataDto(Id, Uploader)

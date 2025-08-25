@@ -1,11 +1,11 @@
-﻿using LightlessSync.API.Data;
-using LightlessSync.API.Data.Enum;
-using LightlessSync.API.Dto;
-using LightlessSync.API.Dto.CharaData;
-using LightlessSync.API.Dto.Group;
-using LightlessSync.API.Dto.User;
+﻿using OnlyMare.API.Data;
+using OnlyMare.API.Data.Enum;
+using OnlyMare.API.Dto;
+using OnlyMare.API.Dto.CharaData;
+using OnlyMare.API.Dto.Group;
+using OnlyMare.API.Dto.User;
 
-namespace LightlessSync.API.SignalR;
+namespace OnlyMare.API.SignalR;
 
 public interface ILightlessHubClient : ILightlessHub
 {

@@ -1,6 +1,6 @@
-﻿using LightlessSync.API.Data;
+﻿using OnlyMare.API.Data;
 
-namespace LightlessSync.API.Dto.CharaData;
+namespace OnlyMare.API.Dto.CharaData;
 
 public record CharaDataDto(string Id, UserData Uploader)
 {

@@ -1,4 +1,4 @@
-﻿namespace LightlessSync.API.Data.Enum;
+﻿namespace OnlyMare.API.Data.Enum;
 
 [Flags]
 public enum GroupPermissions

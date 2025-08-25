@@ -1,4 +1,4 @@
-﻿namespace LightlessSync.API.Dto.CharaData;
+﻿namespace OnlyMare.API.Dto.CharaData;
 
 public enum AccessTypeDto
 {

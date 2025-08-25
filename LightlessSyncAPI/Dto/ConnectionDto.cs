@@ -1,7 +1,7 @@
-﻿using LightlessSync.API.Data;
+﻿using OnlyMare.API.Data;
 using MessagePack;
 
-namespace LightlessSync.API.Dto;
+namespace OnlyMare.API.Dto;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public record ConnectionDto(UserData User)

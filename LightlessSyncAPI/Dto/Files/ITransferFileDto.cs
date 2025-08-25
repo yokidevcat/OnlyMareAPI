@@ -1,4 +1,4 @@
-﻿namespace LightlessSync.API.Dto.Files;
+﻿namespace OnlyMare.API.Dto.Files;
 
 public interface ITransferFileDto
 {
