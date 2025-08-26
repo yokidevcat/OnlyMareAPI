@@ -2,5 +2,5 @@
 
 public class Constants
 {
-    public const string IndividualKeyword = "//LIGHTLESS//DIRECT";
+    public const string IndividualKeyword = "//ONLYMARE//DIRECT";
 }
