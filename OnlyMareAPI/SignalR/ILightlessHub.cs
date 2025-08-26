@@ -7,10 +7,10 @@ using OnlyMare.API.Dto.User;
 
 namespace OnlyMare.API.SignalR;
 
-public interface ILightlessHub
+public interface IOnlyMareHub
 {
     const int ApiVersion = 33;
-    const string Path = "/lightless";
+    const string Path = "/mare";
 
     Task<bool> CheckClientHealth();
 
